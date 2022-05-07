@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DisegnAle
-- 👀 I’m interested in Ui/Ux and development
+- 👋 Hi, I’m @DisegnAle. I am a frontend developer. I mainly use this profile for experimenting and learning new technologies.
+- 👀 I’m interested in ui/ux and development
 - 💞️ I’m looking for interesting projects and full remote jobs
 - 📫 How to reach me: linkedin (https://www.linkedin.com/in/alessio-scaiola-75a68525/)
 
